@@ -12,6 +12,9 @@ This report provides an analytical overview of Airbnb activity in New York City,
 
 The business use case for this data involves multiple stakeholders in the hospitality and tourism industry, including Airbnb hosts, real estate investors, market analysts, and city planners. Understanding the distribution of bookings and pricing can help hosts price their listings competitively and maximize occupancy rates. Real estate investors can identify lucrative areas for property investments. Market analysts can forecast trends and assess market health, while city planners can understand the impact of short-term rentals on housing and neighborhood dynamics.
 
+Tableau Publick Dashboard Link: https://public.tableau.com/app/profile/yogavarshni.ramachandran/viz/AirbnbBookings2019/Dashboard1?publish=yes
+
+
 **Analysis**
 
 1. **Total Bookings by Neighborhood Group and Room Type**
